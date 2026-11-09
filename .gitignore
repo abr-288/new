@@ -1,0 +1,7 @@
+storage/
+.env
+.pglite/
+node_modules/
+.next/
+*.tsbuildinfo
+.env*.local

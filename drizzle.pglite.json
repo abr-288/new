@@ -1,0 +1,8 @@
+{
+  "dialect": "postgresql",
+  "driver": "pglite",
+  "schema": "./src/db/schema.ts",
+  "dbCredentials": {
+    "url": "./.pglite"
+  }
+}
